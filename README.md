@@ -1,4 +1,4 @@
-# Using Center Loss
+# Using Center Loss on Fashion Mnist with Keras
 This repo aims to show how to use [Center Loss](http://ydwen.github.io/papers/WenECCV16.pdf) on [Fashion Mnist](https://github.com/zalandoresearch/fashion-mnist) dataset with Keras.
 </br>
 # Usage
